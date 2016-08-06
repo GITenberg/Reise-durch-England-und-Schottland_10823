@@ -1,0 +1,30 @@
+_repo: Reise-durch-England-und-Schottland_10823
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schopenhauer, Johanna
+    birthdate: 1766
+    deathdate: 1838
+    gutenberg_agent_id: '3702'
+    url: http://www.gutenberg.org/2009/agents/3702
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Johanna_Schopenhauer
+    - http://en.wikipedia.org/wiki/Johanna_Schopenhauer
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- United Kingdom
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10823'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Description and travel'
+- !lcc 'DA'
+- GITenberg
+title: Reise durch England und Schottland
+url: http://www.gutenberg.org/ebooks/10823
