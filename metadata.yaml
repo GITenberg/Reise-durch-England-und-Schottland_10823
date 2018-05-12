@@ -1,5 +1,8 @@
 _repo: Reise-durch-England-und-Schottland_10823
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schopenhauer, Johanna
@@ -11,6 +14,8 @@ creator:
     - http://de.wikipedia.org/wiki/Johanna_Schopenhauer
     - http://en.wikipedia.org/wiki/Johanna_Schopenhauer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10823#Reise-durch-England-und-Schottland
 gutenberg_bookshelf:
 - DE Sachbuch
 - United Kingdom
